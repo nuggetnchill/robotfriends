@@ -1,4 +1,4 @@
-## Robot Friends - My first  React App
+# *Robot Friends - My first  React App*
 
 Deployed site: https://nuggetnchill.github.io/robotfriends/
 
