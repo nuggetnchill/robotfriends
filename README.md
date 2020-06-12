@@ -2,7 +2,7 @@
 
 Deployed site: https://nuggetnchill.github.io/robotfriends/
 
-![Screenshot](https://github.com/nuggetnchill/robotfriends/blob/master/robotfriends.JPG)
+![Screenshot](https://media.giphy.com/media/l4RJQu0IoB6EWSPsCy/giphy.gif)
 
 ### **Tech Stack**
  
